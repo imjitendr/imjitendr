@@ -1,4 +1,4 @@
-👋 Hi, I'm Jitendra Lovanshi
+<h2>📫 👋 Hi, I'm Jitendra Lovanshi</h2>
 
 🎓 B.Tech AI & Data Science Student | 🐍 Python Developer | 🚀 Future AI Engineer
 
@@ -18,7 +18,7 @@ I enjoy learning new technologies and building practical projects that solve rea
 - 🎯 Goal: Become a skilled AI/Data professional
 
 
-🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
@@ -43,21 +43,21 @@ Project	Technology	Status
 
 Every project I build is another step toward becoming a better developer. 
 
-🤝 Connect With Me
 
 <h2>📫 Contact Me</h2>
 
+
 <p>
 <a href="https://www.linkedin.com/in/jitendra-lovanshi-0346a0331">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="mailto:jitendralovanshi811@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
 <a href="https://github.com/imjitendr">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 </p>
 
