@@ -1,16 +1,64 @@
-## Hi there 👋
+👋 Hi, I'm Jitendra Lovanshi
 
-<!--
-**imjitendr/imjitendr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student | 🐍 Python Developer | 🚀 Future AI Engineer
 
-Here are some ideas to get you started:
+I am a B.Tech student passionate about **Python, Data Science, Artificial Intelligence and Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies and building practical projects that solve real-world problems.
+
+
+
+🚀 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🐍 Currently learning Python
+- 📊 Interested in Data Science & AI/ML
+- 🗄️ Learning MySQL & Database Management
+- 💻 Working with Git & GitHub
+- 🎯 Goal: Become a skilled AI/Data professional
+
+
+🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+🐍 Python • 
+
+**Database:**  
+🗄️ MySQL
+
+**Tools:**  
+💻 VS Code • Git • GitHub
+
+**Currently Learning:**  
+🐍 Python  • 🗄️ MySQL • 📊 Data Science • 🤖 AI/ML
+
+
+🚀 Featured Projects
+Project	Technology	Status
+🐍 Python Projects	Python	🔄 Learning
+🗄️ Database Projects	MySQL	🔄 Learning
+
+
+Every project I build is another step toward becoming a better developer. 
+
+🤝 Connect With Me
+
+<h2>📫 Contact Me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/jitendra-lovanshi-0346a0331">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:jitendralovanshi811@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/imjitendr">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+⭐ Thanks for visiting my profile!
