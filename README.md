@@ -33,6 +33,7 @@ I enjoy learning new technologies and building practical projects that solve rea
 
 **Currently Learning:**  
 🐍 Python  • 🗄️ MySQL • 📊 Data Science • 🤖 AI/ML
+Git & github
 
 
 🚀 Featured Projects
