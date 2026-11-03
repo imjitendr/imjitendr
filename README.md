@@ -39,6 +39,7 @@ Git & github
 🚀 Featured Projects
 Project	Technology	Status
 🐍 Python Projects	Python	🔄 Learning
+<br>
 🗄️ Database Projects	MySQL	🔄 Learning
 
 
