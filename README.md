@@ -32,7 +32,7 @@ I enjoy learning new technologies and building practical projects that solve rea
 💻 VS Code • Git • GitHub
 
 **Currently Learning:**  
-🐍 Python <br> • 🗄️ MySQL <br> • 📊 Data Science <br> • 🤖 AI/ML <br>
+🐍 Python <br> • 🗄️ MySQL <br> 
 Git & github
 
 
